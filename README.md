@@ -45,6 +45,7 @@ This modified version of `brkraw` multiplies voxel sizes by 10 during the conver
 ## ▶️ How to Use
 
 From a terminal:
+install the library: pip install -e ./brkraw_fra
 
 ```bash
 python run_brkraw_pipeline.py
